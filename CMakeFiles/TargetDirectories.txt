@@ -1,0 +1,3 @@
+/home/superw/share/prj/CMakeFiles/rebuild_cache.dir
+/home/superw/share/prj/CMakeFiles/demo.dir
+/home/superw/share/prj/CMakeFiles/edit_cache.dir
